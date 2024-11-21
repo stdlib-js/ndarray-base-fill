@@ -42,7 +42,7 @@
     "@stdlib/ndarray-base-dtype": "^0.2.2",
     "@stdlib/ndarray-base-order": "^0.2.2",
     "@stdlib/ndarray-base-shape": "^0.2.2",
-    "@stdlib/types": "^0.4.1"
+    "@stdlib/types": "^0.4.3"
   },
   "devDependencies": {
     "@stdlib/array-complex128": "^0.3.0",
@@ -58,8 +58,6 @@
     "@stdlib/math-base-special-floor": "^0.2.3",
     "@stdlib/math-base-special-pow": "^0.3.0",
     "@stdlib/math-base-special-sqrt": "^0.2.2",
-    "@stdlib/ndarray-base-fill-lib": "github:stdlib-js/ndarray-base-fill-lib#main",
-    "@stdlib/ndarray-base-fill-package.json": "github:stdlib-js/ndarray-base-fill-package.json#main",
     "@stdlib/ndarray-base-numel": "^0.2.2",
     "@stdlib/ndarray-base-shape2strides": "^0.2.2",
     "@stdlib/ndarray-base-strides2offset": "^0.2.2",
