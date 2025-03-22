@@ -16,12 +16,24 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`1aca9d3`](https://github.com/stdlib-js/stdlib/commit/1aca9d37e47e33c03b94bb5b128647c7387172e2) - update type defn
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`40fc3a2`](https://github.com/stdlib-js/stdlib/commit/40fc3a218445c34a667237cadb74ae9417cc0392) - **chore:** add TODO _(by Athan Reines)_
+-   [`1aca9d3`](https://github.com/stdlib-js/stdlib/commit/1aca9d37e47e33c03b94bb5b128647c7387172e2) - **fix:** update type defn _(by Athan Reines)_
 -   [`266a064`](https://github.com/stdlib-js/stdlib/commit/266a064a8cc55b100a00d2ad98c84820d8f17653) - **style:** fix spacing _(by Athan Reines)_
 -   [`6c020d3`](https://github.com/stdlib-js/stdlib/commit/6c020d33665c4aec232196fd86214b296ddc7d36) - **chore:** use relative paths to load package.json file _(by Philipp Burckhardt)_
 -   [`6a6bc1d`](https://github.com/stdlib-js/stdlib/commit/6a6bc1da925c3c3f24463cf0d381d0d38e84868b) - **feat:** add `ndarray/base/fill` [(#2817)](https://github.com/stdlib-js/stdlib/pull/2817) _(by Muhammad Haris, Athan Reines)_
