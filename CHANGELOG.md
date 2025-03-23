@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-03-23)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`5cab853`](https://github.com/stdlib-js/stdlib/commit/5cab853c4f710e60d7dc1639e0cb5e9f00ad2134) - **refactor:** update to enforce mostly safe casts _(by Athan Reines)_
 -   [`40fc3a2`](https://github.com/stdlib-js/stdlib/commit/40fc3a218445c34a667237cadb74ae9417cc0392) - **chore:** add TODO _(by Athan Reines)_
 -   [`1aca9d3`](https://github.com/stdlib-js/stdlib/commit/1aca9d37e47e33c03b94bb5b128647c7387172e2) - **fix:** update type defn _(by Athan Reines)_
 -   [`266a064`](https://github.com/stdlib-js/stdlib/commit/266a064a8cc55b100a00d2ad98c84820d8f17653) - **style:** fix spacing _(by Athan Reines)_

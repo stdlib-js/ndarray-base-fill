@@ -1,5 +1,5 @@
-"use strict";var s=function(r,e){return function(){return e||r((e={exports:{}}).exports,e),e.exports}};var t=s(function(l,i){
-var u=require('@stdlib/ndarray-base-broadcast-scalar/dist'),v=require('@stdlib/ndarray-base-dtype/dist'),q=require('@stdlib/ndarray-base-shape/dist'),c=require('@stdlib/ndarray-base-order/dist'),g=require('@stdlib/ndarray-base-assign/dist');function n(r,e){var a;a=u(e,v(r),q(r),c(r)),g([a,r])}i.exports=n
-});var o=t();module.exports=o;
+"use strict";var u=function(e,r){return function(){return r||e((r={exports:{}}).exports,r),r.exports}};var s=u(function(g,i){
+var n=require('@stdlib/ndarray-base-assert-is-scalar-mostly-safe-compatible/dist'),o=require('@stdlib/ndarray-base-broadcast-scalar/dist'),v=require('@stdlib/ndarray-base-dtype/dist'),c=require('@stdlib/ndarray-base-shape/dist'),p=require('@stdlib/ndarray-base-order/dist'),q=require('@stdlib/ndarray-base-assign/dist'),l=require('@stdlib/error-tools-fmtprodmsg/dist');function y(e,r){var a,t;if(a=v(e),!n(r,a))throw new TypeError(l("invalid argument. The second argument cannot be safely cast to the input array data type. Data type: %s. Value: `%s`.",a,r));t=o(r,a,c(e),p(e)),q([t,e])}i.exports=y
+});var d=s();module.exports=d;
 /** @license Apache-2.0 */
 //# sourceMappingURL=index.js.map
