@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-21)
+## Unreleased (2025-12-30)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`16ce439`](https://github.com/stdlib-js/stdlib/commit/16ce439eb07c2a3212008ed9d2f5f6848da200f1) - **refactor:** update examples and return the input ndarray _(by Athan Reines)_
 -   [`11e6c60`](https://github.com/stdlib-js/stdlib/commit/11e6c608e47109a8576613435dc1c43ea2d9dbc8) - **bench:** fix typo in filename _(by Athan Reines)_
 -   [`8aad405`](https://github.com/stdlib-js/stdlib/commit/8aad4050220ad7cff7b807f0913dcab3d8555fae) - **docs:** add markup _(by Athan Reines)_
 -   [`5cab853`](https://github.com/stdlib-js/stdlib/commit/5cab853c4f710e60d7dc1639e0cb5e9f00ad2134) - **refactor:** update to enforce mostly safe casts _(by Athan Reines)_
