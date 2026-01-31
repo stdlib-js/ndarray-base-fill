@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@deno/mod.js';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@v0.1.0-deno/mod.js';
 ```
 
 #### fill( x, value )
@@ -111,7 +111,7 @@ The function accepts the following arguments:
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@deno/mod.js';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@deno/mod.js';
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@deno/mod.js';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@v0.1.0-deno/mod.js';
 
 var x = discreteUniform( [ 5, 2 ], -100, 100, {
     'dtype': 'generic'
