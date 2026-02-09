@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@esm/index.mjs';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@v0.1.1-esm/index.mjs';
 ```
 
 #### fill( x, value )
@@ -116,7 +116,7 @@ The function accepts the following arguments:
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-discrete-uniform@esm/index.mjs';
 import ndarray2array from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-to-array@esm/index.mjs';
-import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@esm/index.mjs';
+import fill from 'https://cdn.jsdelivr.net/gh/stdlib-js/ndarray-base-fill@v0.1.1-esm/index.mjs';
 
 var x = discreteUniform( [ 5, 2 ], -100, 100, {
     'dtype': 'generic'
