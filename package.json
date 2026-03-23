@@ -38,11 +38,10 @@
   },
   "dependencies": {
     "@stdlib/ndarray-base-assert-is-scalar-mostly-safe-compatible": "^0.1.1",
-    "@stdlib/ndarray-base-assign": "^0.2.1",
-    "@stdlib/ndarray-base-broadcast-scalar": "^0.2.4",
+    "@stdlib/ndarray-base-assign-scalar": "github:stdlib-js/ndarray-base-assign-scalar#main",
     "@stdlib/ndarray-base-dtype": "^0.2.3",
+    "@stdlib/ndarray-base-from-scalar": "^0.2.3",
     "@stdlib/ndarray-base-order": "^0.2.3",
-    "@stdlib/ndarray-base-shape": "^0.2.3",
     "@stdlib/string-format": "^0.2.3",
     "@stdlib/types": "^0.4.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.3"
